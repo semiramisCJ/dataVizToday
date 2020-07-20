@@ -1,2 +1,2 @@
-# dataVizToday
-Scripts for data visualization based on Data Viz Today podcast episodies
+# data_visualization
+Scripts for data visualization for practice with python and R libraries
